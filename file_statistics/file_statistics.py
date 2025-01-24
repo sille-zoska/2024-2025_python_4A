@@ -23,3 +23,6 @@ def file_statistics(file_name):
 # Načítanie názvu súboru a spustenie programu
 file_name = input("Zadajte názov súboru: ")
 file_statistics(file_name)
+
+
+
