@@ -30,6 +30,7 @@ class Fronta:
                 print(item)
 
 if __name__ == "__main__":
+
     # Quick test
     f = Fronta()
     f.push("jablko")
@@ -50,6 +51,8 @@ if __name__ == "__main__":
     if item is None:
         print("Fronta je už prázdna.")
     f.display()
+
+    # Pop the rest
+    item = f.pop()
+    item = f.pop()
 # end
-
-
