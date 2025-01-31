@@ -50,3 +50,6 @@ if __name__ == "__main__":
     if item is None:
         print("Fronta je už prázdna.")
     f.display()
+# end
+
+
